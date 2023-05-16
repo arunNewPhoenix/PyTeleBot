@@ -1,2 +1,4 @@
-# PyTeleBot![Capture](https://github.com/arunNewPhoenix/PyTeleBot/assets/62498648/b3ca39a3-2df2-4bd9-a8e0-f81fd04a1cef)
+# PyTeleBot 
+
 <H1>please get your api key and place in .env file</H1>
+![wikibot](https://github.com/arunNewPhoenix/PyTeleBot/assets/62498648/e400e7c7-74ee-4666-bdb3-a8fc629b30d2)
